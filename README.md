@@ -22,7 +22,8 @@
 
 **[Mức 4:](https://www.youtube.com/playlist?list=PLT3P1FiVK_NHSFudx_eMfHA2l7pS1pare)**
 >python moving_obstacles.py input1.txt 2 
-  -(hoặc input2.txt, input3.txt, input4.txt, extreme.txt)
-  -(số 2 trong câu lệnh trên có nghĩa là vật cản di chuyển 2 tọa độ trong 0.1s)
+  
+ -(hoặc input2.txt, input3.txt, input4.txt, extreme.txt)
+ -(số 2 trong câu lệnh trên có nghĩa là vật cản di chuyển 2 tọa độ trong 0.1s)
 
 
